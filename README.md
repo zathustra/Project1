@@ -1,9 +1,24 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Python Interview Exercises
 
+> Unit 1, Project 1
+
+---
+
+## Materials We Provide
+
+| Topic | Description | Link |
+| --- | --- | --- |
+| Solution  | Solution code for Project Questions | [Here](./Solution-Code/Project-1-CC-Solutions.ipynb) |
+
+---
+
+## Project Objective
+
 Technical interviews are a core component of being a data scientist. Moreover, they're a fun way to practice your new Python skills.
 
 Below we've included three coding challenges. You should complete each of these in Python, and test your solutions to verify they work. You are encouraged to comment your code to so you can explain what is occuring at each step. (Many of these are common practice problems and, thus, solutions can be found online. You are discouraged from doing so as this only limits your own growth from solving these problems.)
 
+---
 
 ## Technical Interview Sample Questions
 
@@ -22,3 +37,18 @@ Write a program that prints all the numbers from 1 to 100. For multiples of 3, i
 
 ### Challenge 3: String Compressor
 Implement a method to perform basic string compression using the counts of repeated characters. For example, the string 'aabcccccaaa' would become a2b1c5a3. If the “compressed” string would not become smaller than the original string, your method should return the original string. You can assume the string has only uppercase and lowercase letters (a-z). Specify whether your solution is case sensitive or insensitive, and what you would need to change to make it the other.
+
+---
+
+## Project Requirements
+
+In an iPython Notebook, create working solutions for the above questions.
+
+Your notebook should include
+- Text for the question, copy and pasted from this file (preferably in markdown).
+- A working solution to each of the problems.
+  - Do not include test, practice code or broken code, **unless** you were unable to create a working solution.
+- All code should be commented
+- If your solution has any assumptions make sure they are noted.
+
+- Bonus: You may include extra solution versions assuming they are fully functioning and clearly labeled. 

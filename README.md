@@ -57,7 +57,7 @@ Your notebook should include:
 
 ---
 
-### Rubric
+## Rubric
 
 For all projects, requirements should be evaluated on a simple point scale of 0, 1, or 2. 
 
@@ -69,7 +69,7 @@ Score | Expectations
 
 ---
 
-### How We Grade Projects
+## How We Grade Projects
 
 Instructors should use the following guidelines to provide project feedback:
 

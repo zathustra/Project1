@@ -57,7 +57,7 @@ Your notebook should include:
 
 ### Rubric
 
-For all projects, requirements should be evaluated on a simple 3 point scale (0, 1, or 2). 
+For all projects, requirements should be evaluated on a simple point scale of 0, 1, or 2. 
 
 Score | Expectations
 :--- | :---

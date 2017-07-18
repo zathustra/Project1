@@ -51,7 +51,7 @@ Your notebook should include:
 3. Provide comments for your code
    - In your comments, describe any assumptions you made in order to solve these problems.
 
-4. **Bonus**: In programming and life, there are typically multiple equivalent methods of solving a problem. After completing these challenges, go back and try to think of any additional solutions.
+4. **Bonus**: In programming (and life), there may be multiple ways to solve a problem. After completing our challenges, go back and see if you can think of any other valid methods!
 
 ---
 

@@ -47,9 +47,9 @@ Your notebook should include:
 
 1. Text for the question, copy and pasted from this file (preferably in markdown).
 2. A working solution to each problem.
-  - Do not include test, practice, or broken code (*unless you were unable to create a working solution*).
+   - Do not include test, practice, or broken code (*unless you were unable to create a working solution*).
 3. Provide comments for your code
-  - In your comments, describe any assumptions you made in order to solve these problems.
+   - In your comments, describe any assumptions you made in order to solve these problems.
 
 4. **Bonus**: In programming and life, there are typically multiple equivalent methods of solving a problem. After completing these challenges, go back and try to think of any additional solutions.
 

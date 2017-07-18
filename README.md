@@ -20,7 +20,9 @@ Below we've included three coding challenges. You should complete each of these 
 
 ---
 
-## Sample Technical Interview Challenges
+## Code Challenges
+
+> The following code challenges are drawn from common exercises used in technical interviews.
 
 ### Challenge 1: Largest Palindrome
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99. Find the largest palindrome made from the product of two 3-digit numbers.

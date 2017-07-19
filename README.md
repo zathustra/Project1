@@ -14,7 +14,7 @@
 
 ## Project Objective
 
-Technical interviews are a core component of being a data scientist. Moreover, they're a fun way to practice your new Python skills.
+Practicing your new found Python skills is key to being a successful data scientist. Practicing them in a commonly applied manner -- technical interviews -- is a natural fit. Moreover, they're a fun way to practice your new Python skills.
 
 Below we've included three coding challenges. You should complete each of these in Python, and test your solutions to verify they work. You are encouraged to comment your code to so you can explain what is occuring at each step. (Many of these are common practice problems and, thus, solutions can be found online. You are discouraged from doing so as this only limits your own growth from solving these problems.)
 

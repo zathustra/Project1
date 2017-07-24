@@ -8,9 +8,10 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
+| Starter Code | Prompts and questions | [Here](./Project-1-CC.ipynb) |
 | Solution Code | Sample solutions for project questions | [Here](./Solution-Code/Project-1-CC-Solutions.ipynb) |
 
-> Note: Instructors should withold providing project solutions until students have submitted their drafts.
+> Note: Instructors should withold providing project solutions until students have submitted their drafts. In order to do so, avoid forking this repo and instead clone down materials locally, create a new repository in your student org, and upload materials manually.
 
 ---
 
@@ -18,7 +19,9 @@
 
 Technical interviews are a core component of being a data scientist. Moreover, they're a fun way to practice your new Python skills.
 
-Below we've included three coding challenges. You should complete each of these in Python, and test your solutions to verify they work. You are encouraged to comment your code to so you can explain what is occuring at each step. (Many of these are common practice problems and, thus, solutions can be found online. You are discouraged from doing so as this only limits your own growth from solving these problems.)
+Below we've included three coding challenges. You should complete each of these in Python, and test your solutions to verify they work. You are encouraged to comment your code to so you can explain what is occuring at each step.
+
+Many of these are common practice problems, which means some solutions can be found online. Students should see these questions as an opportunity to challenge themselves; looking up answers limits the potential growth that comes from practice and repetition of these skills.
 
 ---
 
